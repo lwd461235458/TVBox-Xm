@@ -52,7 +52,7 @@
     "wgcf_geoip_url":"./geoip.dat.gz",
     "wgcf_json_url": "./wgcf.json",
     "wgcf_vless_id": "d4e1cacb-9699-4c22-8539-b55c590e7fc8",
-    "wgcf_vless_optname": "8.210.101.157:2083",
+    "wgcf_vless_optname": "16.162.37.167:443",
     "wgcf_vless_worker": "as.sin47.dynv6.net",
     "wgcf_vless_path": "/proxyIP=proxyip.fxxk.dedyn.io",
     "wgcf_vless_protocol": "vless",
