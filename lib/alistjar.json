@@ -1,0 +1,16 @@
+{
+    "drives": [
+        {
+            "name": "罗汉果",
+            "search": true,
+            "searchable": true,
+            "server": "http://9527.coms.ee:38667/"
+        },
+        {
+            "name": "ECVE",
+            "search": true,
+            "searchable": true,
+            "server": "https://pan.ecve.cn"
+        }
+    ]
+}
